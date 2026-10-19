@@ -246,6 +246,25 @@ If you use this code, please cite the original scheme and, for the compression t
 }
 ```
 
+When available, please cite the associated article. GitHub reads the `CITATION.cff` file at the repository root and shows a "Cite this repository" button. Its contents are:
+
+```yaml
+cff-version: "1.2.0"
+message: >-
+  If you use this software, please cite this repository and, when available,
+  the associated article.
+title: "Comparative Evaluation of Quasi-Cyclic Code-Based Signature Schemes under Hamming and Lee Metrics"
+type: software
+license: BSD-3-Clause
+authors:
+  - family-names: "Moreira"
+    given-names: "Pablo H. Santos"
+  - family-names: "Pereira"
+    given-names: "Diogo"
+  - family-names: "Borges"
+    given-names: "Fábio"
+```
+
 The compression follows the Falcon specification: Prest et al., *Falcon: Fast-Fourier Lattice-based Compact Signatures over NTRU*, <https://falcon-sign.info/>.
 
 ## License
