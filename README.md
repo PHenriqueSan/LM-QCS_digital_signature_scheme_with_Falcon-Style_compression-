@@ -238,7 +238,7 @@ If you use this code, please cite the original scheme and, for the compression t
   doi       = {10.1109/VCRIS63677.2024.10813379}
 }
 
-@mastersthesis{<citation-key>,
+@mastersthesis{Santos2026comparative,
   author = {Pablo H. Santos Moreira},
   title  = {Quasi-Cyclic Code-Based Digital Signature Schemes: Comparative Analysis under Hamming and Lee Metrics},
   school = {National Laboratory of Scientific Computation - LNCC},
